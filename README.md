@@ -1,6 +1,6 @@
 # deployment-action
 
-A GitHub action to create [Deployments](https://developer.github.com/v3/repos/deployments/) as part of your GitHub CI workflows.
+A GitHub action to create [Deployments](https://developer.github.com/v3/repos/deployments/) as part of your GitHub CI workflows, based on the work from [chrnorm](https://github.com/chrnorm/deployment-action).
 
 ## Action inputs
 
